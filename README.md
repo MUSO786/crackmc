@@ -16,4 +16,6 @@ Method 1 - Press Ctrl+Shift+Esc and click on `File`. Next, click on `Run new tas
 
 Method 2 - Press Ctrl+Shift+Esc and click on `File`. Next, click on `Run new task`. A task will pop up. Make sure `Create this task with adminstarative privilieges` is checked. Type `cmd`. Type in `net start ClipSVC`.
 
+Method 3 - Open the `fixblackscreen.reg` file included in this repository and restart your computer after.
+
 *If none of this fixes your problem contact me on discord MUSO786#0786*
