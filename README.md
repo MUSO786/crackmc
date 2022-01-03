@@ -1,7 +1,7 @@
 # crackmc
 Want to get Minecraft Bedrock for free? Use this! No credits needed or wanted use and share! Feel free to fork!
 
-<img src="Minecraf_log.png"/>
+<img src="Minecraft-logo.png"/>
 
 ClipSVC must be stopped in Task Manager > Services
 
